@@ -1,0 +1,3 @@
+git config --global user.name wanwan510 
+git config --global user.email kanwunwan@gmail.com
+
